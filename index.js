@@ -1,6 +1,6 @@
 /*
  * simplify-svg-path
- *
+ * BRUHHVVVV
  * The logic is a copy of Paper.js v0.12.11.
  */
 /*
